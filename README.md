@@ -7,7 +7,7 @@ I'm Abdallah from Egypt, and I'm a software engineering student at Misr Internat
 - LinkedIn: [Abdallah Hamdy](https://www.linkedin.com/in/abdallah-hamdy-44a13a262)
 
 ### 💼 Skills
-- **Languages**: Java, JavaScript, Python
+- **Languages**: Java, JavaScript, Python , C++ , C# 
 - **Frameworks**: React, Spring Boot, Node.js, Express
 - **Databases**: MongoDB, SQL
 - **Tools**: Git, VScode
