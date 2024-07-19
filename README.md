@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**Abdallah2110678/Abdallah2110678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abdallah from Egypt, and I'm a software engineering student at Misr International University who is passionate about making an impact through technology. I love developing software solutions that can help people in their everyday lives.
 
-Here are some ideas to get you started:
+### 🌱 What I'm Currently Learning
+- Advanced concepts in React and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to Reach Me
+- Email: [YourEmail@example.com](mailto:abdallahhamdy292@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/abdallah-hamdy-44a13a262)
+
+### 💼 Skills
+- **Languages**: Java, JavaScript, Python
+- **Frameworks**: React, Spring Boot, Node.js, Express
+- **Databases**: MongoDB, SQL
+- **Tools**: Git, VScode
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdallah2110678&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah2110678&layout=compact&theme=radical)
+
+### 💬 Let's Connect!
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
+
