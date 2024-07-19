@@ -4,10 +4,10 @@ I'm Abdallah from Egypt, and I'm a software engineering student at Misr Internat
 
 ### 🌱 What I'm Currently Learning
 - Advanced concepts in React and JavaScript.
-
+- 
 ### 📫 How to Reach Me
-- Email: [YourEmail@example.com](mailto:abdallahhamdy292@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/abdallah-hamdy-44a13a262)
+- Email: [abdallahhamdy292@gmail.com](mailto:abdallahhamdy292@gmail.com)
+- LinkedIn: [Abdallah Hamdy](https://www.linkedin.com/in/abdallah-hamdy-44a13a262)
 
 ### 💼 Skills
 - **Languages**: Java, JavaScript, Python
