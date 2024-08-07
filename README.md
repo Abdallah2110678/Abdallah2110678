@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Abdallah from Egypt, and I'm a software engineering student at Misr International University who is passionate about making an impact through technology. I love developing software solutions that can help people in their everyday lives.
+I'm Abdallah from Egypt, and I'm a Software Engineering student at Misr International University who is passionate about making an impact through technology. I love developing software solutions that can help people in their everyday lives.
 
 ### 📫 How to Reach Me
 - Email: [abdallahhamdy292@gmail.com](mailto:abdallahhamdy292@gmail.com)
