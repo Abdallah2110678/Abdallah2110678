@@ -8,7 +8,7 @@ I'm Abdallah from Egypt, and I'm a Software Engineering student at Misr Internat
 
 ### 💼 Skills
 - **Languages**: Java, JavaScript, Python , C++ , C# 
-- **Frameworks**: React, Spring Boot, Node.js, Express,django
+- **Frameworks**: React, Spring Boot, Node.js, Express, django
 - **Databases**: MongoDB, MySQL
 - **Tools**: Git,Github, VScode
 
